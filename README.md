@@ -22,3 +22,5 @@
 ### Content page
  
 ![Content Page](screenshots/846bba9a2917b7ea9a5df33bdb92b1df.png)
+## License
+Distributed under MIT License. See`license.md`for more information.
